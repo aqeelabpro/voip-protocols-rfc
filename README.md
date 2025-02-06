@@ -1,4 +1,4 @@
-# VoIP Protocols RFC(Copied from ietf website)
+# VoIP Protocols RFC(Taken from ietf website)
 
 # RFC 3550
 RFC 3550 guides us through the RTP(**Real-Time Transport Protocol**): A Transport Protocol for Real-Time Applications
